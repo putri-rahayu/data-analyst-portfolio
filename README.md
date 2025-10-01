@@ -34,4 +34,4 @@ IBM Data Analyst Professional Certificate (Coursera) *(ongoing)*
 ---
 
 ### 🌐 Connect  
-[LinkedIn](https://www.linkedin.com/in/putri-rahayu-991371105) | [Instagram](https://www.instagram.com/putrirahayu21_)  | [Email](putrirahayu210597@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/putri-rahayu-991371105) | [Instagram](https://www.instagram.com/putrirahayu21_)  | [Email](mailto:putrirahayu210597@gmail.com)  
