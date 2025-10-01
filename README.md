@@ -1,27 +1,35 @@
-# Putri's Data Analyst Portfolio  
+# Putri's Data Analyst Portfolio 👩🏻‍💻
 
-Hi 👋, I'm Putri!  
-Aspiring **Data Analyst** with background in hospitality and e-commerce.  
-I enjoy exploring data, finding insights, and building dashboards to support decision-making.  
+Hi, I'm **Putri** — an aspiring **Data Analyst** with experience in hospitality and e-commerce.  
+This portfolio highlights my work in **data analysis and business intelligence**, especially through dashboard reporting.
 
 ---
 
-## 📊 Featured Projects
-- [Sales Analysis (Python)](projects/sales-analysis/README.md)  
-  Cleaned & analyzed 10k+ sales transactions, visualized trends with Matplotlib & Seaborn.  
-  ![Sales Chart](projects/sales-analysis/sales_chart.png)
+## 📊 Featured Project: Revenue Dashboard
 
-- [Customer Churn (SQL)](projects/customer-churn/README.md)  
-  Wrote SQL queries to identify customer churn patterns and retention strategies.
+- **Tool**: Google Looker Studio  
+- **Description**: Interactive dashboard analyzing **revenue, occupancy, and booking channels** in hospitality properties.  
+- **Highlights**:
+  - Revenue trend per month and property
+  - Occupancy rate comparison
+  - Channel performance with filters
 
-- [Revenue Dashboard (Tableau)](dashboards/tableau-link.md)  
-  Interactive dashboard for revenue growth in hospitality.  
-  👉 [View on Tableau Public](https://public.tableau.com/...)
+👉 [View Dashboard in Looker Studio](https://lookerstudio.google.com/report/your-public-link)  
+
+📄 You can also check the static versions:  
+- [PDF Report](dashboards/dashboard.pdf)  
+- [PPT Presentation](dashboards/dashboard.pptx)  
 
 ---
 
 ## 🛠 Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Database:** SQL (PostgreSQL, MySQL)  
-- **Visualization:** Tableau, Looker Studio, Excel  
-- **Other:** Data Cleaning, EDA, Business Reporting
+- **Data Visualization**: Looker Studio, Tableau, Excel  
+- **Analysis**: Revenue trends, occupancy analysis, channel performance  
+- **Communication**: Dashboard storytelling, reporting with PPT & PDF  
+
+---
+
+## 📌 About Me
+- 🎓 Currently joining a **Data Analyst Bootcamp** to strengthen skills in Python, SQL, and BI tools  
+- 🌏 Background in hospitality & e-commerce  
+- 🚀 Passionate about turning data into insights for better business decisions
