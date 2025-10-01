@@ -13,7 +13,7 @@
 
 ---
 
-### Hard SSkills  
+### Hard Skills  
 Python • SQL • Tableau • Looker Studio • Excel • Data Cleaning • Dashboard Design  
 ### Soft Skills  
 Analytical Thinking • Communication • Problem-Solving • Stakeholder Management • Team Collaboration • Adaptability • Critical Thinking
