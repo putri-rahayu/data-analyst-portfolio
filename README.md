@@ -1,35 +1,35 @@
-# Putri's Data Analyst Portfolio 👩🏻‍💻
+<h1 align="center">🌟 Putri — Data Analyst Portfolio</h1>  
 
-Hi, I'm **Putri** — an aspiring **Data Analyst** with experience in hospitality and e-commerce.  
-This portfolio highlights my work in **data analysis and business intelligence**, especially through dashboard reporting.
-
----
-
-## 📊 Featured Project: Revenue Dashboard
-
-- **Tool**: Google Looker Studio  
-- **Description**: Interactive dashboard analyzing **revenue, occupancy, and booking channels** in hospitality properties.  
-- **Highlights**:
-  - Revenue trend per month and property
-  - Occupancy rate comparison
-  - Channel performance with filters
-
-👉 [View Dashboard in Looker Studio](https://lookerstudio.google.com/report/your-public-link)  
-
-📄 You can also check the static versions:  
-- [PDF Report](dashboards/dashboard.pdf)  
-- [PPT Presentation](dashboards/dashboard.pptx)  
+<p align="center">
+  <em>Clear Analysis • Smart Insights • Business Impact</em>
+</p>  
 
 ---
 
-## 🛠 Skills
-- **Data Visualization**: Looker Studio, Tableau, Excel  
-- **Analysis**: Revenue trends, occupancy analysis, channel performance  
-- **Communication**: Dashboard storytelling, reporting with PPT & PDF  
+### 📊 Project  
+**SuryaHub Loyalty Program Dashboard** *(Looker Studio)*  
+👉 [View Dashboard](https://lookerstudio.google.com/reporting/0cf60ecd-92e8-4f49-80d0-7d7548d0bd2c)  
+👉 [Report & Presentation](https://docs.google.com/presentation/d/1AXCWAAavoUYl7tjdj_OO10d15HJQhk40/edit?usp=sharing)  
 
 ---
 
-## 📌 About Me
-- 🎓 Currently joining a **Data Analyst Bootcamp** to strengthen skills in Python, SQL, and BI tools  
-- 🌏 Background in hospitality & e-commerce  
-- 🚀 Passionate about turning data into insights for better business decisions
+### 🛠️ Skills  
+Python • SQL • Tableau • Looker Studio • Excel • Data Cleaning • Dashboard Design  
+
+---
+
+### 📚 Learning  
+🎓 Harisenin.com (Certified)  
+📐 Mathematics for Data Analyst & Scientist *(ongoing)*  
+🏅 IBM Data Analyst Professional Certificate (Coursera) *(in progress)*  
+
+---
+
+### 🏅 Certificates  
+- Harisenin.com — [View Certificate](YOUR_HARISENIN_CERTIFICATE_LINK)  
+- IBM Data Analyst (Coursera) — [View Certificate](YOUR_COURERA_CERTIFICATE_LINK)  
+
+---
+
+### 🌐 Connect  
+[LinkedIn](https://www.linkedin.com/in/putri-rahayu-991371105) | [Instagram](https://www.instagram.com/putrirahayu21_)  
