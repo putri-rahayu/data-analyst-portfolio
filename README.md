@@ -21,9 +21,9 @@ Analytical Thinking • Communication • Problem-Solving • Stakeholder Manage
 ---
 
 ### 📚 Learning  
-🎓 Harisenin.com (Certified)  
-📐 Mathematics for Data Analyst & Scientist *(ongoing)*  
-🏅 IBM Data Analyst Professional Certificate (Coursera) *(ongoing)*  
+Harisenin.com (Certified)  
+Mathematics for Data Analyst & Scientist *(ongoing)*  
+IBM Data Analyst Professional Certificate (Coursera) *(ongoing)*  
 
 ---
 
