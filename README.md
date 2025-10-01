@@ -1,4 +1,4 @@
-<h1 align="center">Putri — Data Analyst Portfolio</h1>  
+<h1 align="center">Putri's Data Analyst Portfolio</h1>  
 
 <p align="center">
   <em>Clear Analysis • Smart Insights • Business Impact</em>
