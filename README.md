@@ -8,8 +8,8 @@
 
 ### 📊 Project  
 **SuryaHub Loyalty Program Dashboard** *(Looker Studio)*  
-👉 [View Dashboard](https://lookerstudio.google.com/reporting/0cf60ecd-92e8-4f49-80d0-7d7548d0bd2c/page/qgR)  
-👉 [Report & Presentation](https://docs.google.com/presentation/d/1AXCWAAavoUYl7tjdj_OO10d15HJQhk40/edit?slide=id.p1#slide=id.p1)  
+👉 [View Dashboard](https://lookerstudio.google.com/reporting/0cf60ecd-92e8-4f49-80d0-7d7548d0bd2c)  
+👉 [Report & Presentation](https://docs.google.com/presentation/d/1AXCWAAavoUYl7tjdj_OO10d15HJQhk40/edit?usp=sharing&ouid=114873102389594182594&rtpof=true&sd=true)  
 
 ---
 
